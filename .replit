@@ -1,2 +1,2 @@
 language = "python3"
-run = "python chapter_1/list_comperhension.py"
+run = "python chapter_1/ip.py"
