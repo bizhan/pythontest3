@@ -1,2 +1,2 @@
 language = "python3"
-run = "python chapter_1/ip.py"
+run = "python regex_exe/section_3/exercise.py"
